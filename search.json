@@ -4,55 +4,62 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Placeholder for now."
+    "text": "Experienced economist with a PhD and 15+ years in academia, research, and policy analysis. Skilled in econometric modeling, forecasting, cost-benefit analysis, and causal inference. Authorized to work in the UK."
   },
   {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
+    "objectID": "about.html#current-role",
+    "href": "about.html#current-role",
     "title": "About Me",
-    "section": "Interests",
-    "text": "Interests\n\nBRICS\nResearch\nPolicy\nGeopolitics\nEconomics\nAI\nMachine Learning"
+    "section": "Current Role",
+    "text": "Current Role\nAssociate Professor and Head of Department | University of Nizwa, Sultanate of Oman\nOct 2021 - Present\nLeading the Economics and Finance department, providing training and mentorship to aspiring entrepreneurs, and conducting workshops on advanced data analysis techniques."
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
+    "objectID": "about.html#previous-experience",
+    "href": "about.html#previous-experience",
     "title": "About Me",
-    "section": "Experience",
-    "text": "Experience\nCompany Name | Position 2020 - Present\nPrevious Company | Position 2018 - 2020"
+    "section": "Previous Experience",
+    "text": "Previous Experience\nEconomic Advisor | Infinite Sum Modelling (Part-time, Remote)\nFeb 2024 - Present\nAssistant Professor | Institute for Studies for Industrial Development (ISID), New Delhi\nMay 2013 - Aug 2017"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nPh.D in Economics | Vidyasagar University\nHealth Care Financing and Equity (2007-2012)\nM.Sc in Economics | Vidyasagar University\nSpecialization in Econometrics and Statistics (2000-2002)"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Research Publication in BMC Public Health",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "I’m happy to share that my article has been published in BMC Public Health. This research contributes to our understanding of public health economics and policy implications.\n\nThis publication represents ongoing work in health economics and demonstrates the application of econometric methods to real-world health challenges."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Educational Journey at Vidyasagar University",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Celebrating an educational milestone - reflecting on my time completing my M.Sc at the Department of Economics, Vidyasagar University.\nThis foundational experience in Economics with specialization in Econometrics and Statistics laid the groundwork for my academic and professional journey in economic research and policy analysis."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Swadhin Mondal",
     "section": "",
-    "text": "Hello there! 👋\nI’m Swadhin, welcome to my personal website!"
+    "text": "I’m passionate about using economics to solve real-world challenges"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Swadhin Mondal",
     "section": "About Me",
-    "text": "About Me\nExperienced economist holding a PhD with over 15 years in academia, research, and policy analysis.\nExpertise includes econometric modeling, forecasting, cost-benefit analysis, and causal inference to deliver robust, evidence-based insights.\nSkilled in advising governments, private sector entities, and international development organizations on economic strategies and policy formulation.\nProven track record in applying advanced quantitative methods to real-world challenges, with a commitment to impactful research and data-driven decision-making.\nLegally authorized to work in the UK and keen to contribute economic expertise to dynamic teams in London."
+    "text": "About Me\nHi there! I’m Swadhin, an economist with a deep curiosity for understanding how data can drive better decisions. With my PhD and over 15 years of experience, I’ve had the privilege of working across academia, research institutions, and policy organizations.\nCurrently, I serve as Associate Professor and Head of Department at the University of Nizwa in Oman, where I lead our Economics and Finance department and mentor the next generation of economists. I also work as an Economic Advisor with Infinite Sum Modelling, applying advanced quantitative methods to tackle complex problems.\n\nWhat drives me:\n\nResearch: I love diving deep into econometric modeling and causal inference\nPolicy Impact: Translating complex analysis into actionable insights for governments and organizations\n\nTeaching: Sharing knowledge and inspiring students to see the beauty in economic theory\nInnovation: Exploring how modern analytical techniques can solve age-old economic questions\n\nI’m authorized to work in the UK and always excited to collaborate on meaningful projects that make a difference."
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
     "title": "Swadhin Mondal",
     "section": "Recent Posts",
-    "text": "Recent Posts\n\n\n\n\n\nDate\n\n\nCategories\n\n\nTitle\n\n\n\n\n\n\n8/24/25\n\n\nnews, code, analysis\n\n\nPost With Code\n\n\n\n\n8/21/25\n\n\nnews\n\n\nWelcome To My Blog\n\n\n\n\n\nNo matching items\n\n\n\n© 2025 Swadhin Mondal. All rights reserved."
+    "text": "Recent Posts\n\n\n\n\n\nDate\n\n\nCategories\n\n\nTitle\n\n\n\n\n\n\n4/24/24\n\n\nresearch, publication\n\n\nResearch Publication in BMC Public Health\n\n\n\n\n8/24/22\n\n\neducation, milestone\n\n\nEducational Journey at Vidyasagar University\n\n\n\n\n\nNo matching items\n\n\n\nLet’s Connect!\nFeel free to reach out if you’d like to discuss economics, research collaborations, or just want to chat about data and policy.\n\n© 2025 Swadhin Mondal. All rights reserved."
   }
 ]
