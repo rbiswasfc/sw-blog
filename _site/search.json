@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Placeholder for now."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n\nBRICS\nResearch\nPolicy\nGeopolitics\nEconomics\nAI\nMachine Learning"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nCompany Name | Position 2020 - Present\nPrevious Company | Position 2018 - 2020"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Swadhin Mondal",
+    "section": "",
+    "text": "Hello there! 👋\nI’m Swadhin, welcome to my personal website!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Swadhin Mondal",
+    "section": "About Me",
+    "text": "About Me\nExperienced economist holding a PhD with over 15 years in academia, research, and policy analysis.\nExpertise includes econometric modeling, forecasting, cost-benefit analysis, and causal inference to deliver robust, evidence-based insights.\nSkilled in advising governments, private sector entities, and international development organizations on economic strategies and policy formulation.\nProven track record in applying advanced quantitative methods to real-world challenges, with a commitment to impactful research and data-driven decision-making.\nLegally authorized to work in the UK and keen to contribute economic expertise to dynamic teams in London."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Swadhin Mondal",
+    "section": "Recent Posts",
+    "text": "Recent Posts\n\n\n\n\n\nDate\n\n\nCategories\n\n\nTitle\n\n\n\n\n\n\n8/24/25\n\n\nnews, code, analysis\n\n\nPost With Code\n\n\n\n\n8/21/25\n\n\nnews\n\n\nWelcome To My Blog\n\n\n\n\n\nNo matching items\n\n\n\n© 2025 Swadhin Mondal. All rights reserved."
+  }
+]

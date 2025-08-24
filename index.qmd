@@ -1,0 +1,44 @@
+---
+title: "Swadhin Mondal"
+toc: false
+listing:
+  date-format: short
+  filter-ui: false
+  feed: true
+  type: table
+  sort-ui: false
+  sort: "date desc"
+  categories: false
+  fields: [date, categories, title]
+  id: blog-listings
+  contents: 
+    - posts
+  page-size: 10
+---
+
+Hello there! 👋
+
+I'm Swadhin, welcome to my personal website!
+
+## About Me
+
+Experienced economist holding a PhD with over 15 years in academia, research, and policy analysis.
+
+Expertise includes econometric modeling, forecasting, cost-benefit analysis, and causal inference to deliver robust, evidence-based insights. 
+
+
+Skilled in advising governments, private sector entities, and international development organizations on economic strategies and policy formulation. 
+
+
+Proven track record in applying advanced quantitative methods to real-world challenges, with a commitment to impactful research and data-driven decision-making. 
+
+
+Legally authorized to work in the UK and keen to contribute economic expertise to dynamic teams in London.
+
+## Recent Posts
+::: {#blog-listings}
+:::
+
+<footer style="text-align: center; margin-top: 2em; padding-top: 1em; border-top: 1px solid #ddd; color: #666; font-size: 0.8em;">
+© 2025 Swadhin Mondal. All rights reserved.
+</footer>
