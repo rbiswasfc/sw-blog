@@ -1,5 +1,6 @@
 ---
 title: "Swadhin Mondal"
+subtitle: "Economist • Researcher"
 toc: false
 listing:
   date-format: short
@@ -16,29 +17,38 @@ listing:
   page-size: 10
 ---
 
-Hello there! 👋
+::: {.hero-banner style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 3rem 2rem; border-radius: 10px; margin-bottom: 2rem; text-align: center;"}
+# Welcome! 👋
 
-I'm Swadhin, welcome to my personal website!
+**I'm passionate about using economics to solve real-world challenges**
+:::
 
 ## About Me
 
-Experienced economist holding a PhD with over 15 years in academia, research, and policy analysis.
+Hi there! I'm Swadhin, an economist with a deep curiosity for understanding how data can drive better decisions. With my PhD and over 15 years of experience, I've had the privilege of working across academia, research institutions, and policy organizations.
 
-Expertise includes econometric modeling, forecasting, cost-benefit analysis, and causal inference to deliver robust, evidence-based insights. 
+Currently, I serve as **Associate Professor and Head of Department** at the University of Nizwa in Oman, where I lead our Economics and Finance department and mentor the next generation of economists. I also work as an Economic Advisor with Infinite Sum Modelling, applying advanced quantitative methods to tackle complex problems.
 
+### What drives me:
+- **Research**: I love diving deep into econometric modeling and causal inference
+- **Policy Impact**: Translating complex analysis into actionable insights for governments and organizations  
+- **Teaching**: Sharing knowledge and inspiring students to see the beauty in economic theory
+- **Innovation**: Exploring how modern analytical techniques can solve age-old economic questions
 
-Skilled in advising governments, private sector entities, and international development organizations on economic strategies and policy formulation. 
+I'm authorized to work in the UK and always excited to collaborate on meaningful projects that make a difference.
 
-
-Proven track record in applying advanced quantitative methods to real-world challenges, with a commitment to impactful research and data-driven decision-making. 
-
-
-Legally authorized to work in the UK and keen to contribute economic expertise to dynamic teams in London.
+---
 
 ## Recent Posts
 ::: {#blog-listings}
 :::
 
-<footer style="text-align: center; margin-top: 2em; padding-top: 1em; border-top: 1px solid #ddd; color: #666; font-size: 0.8em;">
-© 2025 Swadhin Mondal. All rights reserved.
-</footer>
+::: {.footer-section style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px; margin-top: 3rem; text-align: center; color: #6c757d;"}
+**Let's Connect!** 
+
+Feel free to reach out if you'd like to discuss economics, research collaborations, or just want to chat about data and policy.
+
+---
+
+*© 2025 Swadhin Mondal. All rights reserved.*
+:::

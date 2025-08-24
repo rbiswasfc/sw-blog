@@ -1,9 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-08-24"
-categories: [news, code, analysis]
+title: "Educational Journey at Vidyasagar University"
+author: "Swadhin Mondal"
+date: "2022-08-24"
+categories: [education, milestone]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Celebrating an educational milestone - reflecting on my time completing my M.Sc at the Department of Economics, Vidyasagar University.
+
+This foundational experience in Economics with specialization in Econometrics and Statistics laid the groundwork for my academic and professional journey in economic research and policy analysis.

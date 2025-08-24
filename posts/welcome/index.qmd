@@ -1,12 +1,12 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-08-21"
-categories: [news]
+title: "Research Publication in BMC Public Health"
+author: "Swadhin Mondal"
+date: "2024-04-24"
+categories: [research, publication]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+I'm happy to share that my article has been published in BMC Public Health. This research contributes to our understanding of public health economics and policy implications.
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+This publication represents ongoing work in health economics and demonstrates the application of econometric methods to real-world health challenges.
