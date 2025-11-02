@@ -1,0 +1,16 @@
+---
+title: "Research Publication in BMC Public Health"
+author: "Dr. Swadhin Mondal"
+date: "2025-03-24"
+categories: [research, publication]
+---
+
+I'm happy to share that my article, titled "Obesity among college students in Oman: implications for health and academic performance", has been published in BMC Public Health!
+
+![](thumbnail.jpg)
+
+:::{.callout-note title="Abstract"}
+This study examines the impact of obesity on the current health and academic performance of college students, with potential long-term implications for their overall well-being. Using survey data from 300 students at a university in the Arab Gulf of Oman, the study finds that over 27% of students are classified as overweight or obese. The analysis reveals a significant negative relationship between obesity and academic performance, with obese students showing a 6.6% decrease in academic grades compared to their peers of healthy weight. The findings suggest that the likelihood of earning lower academic grades is 2.54 times higher among obese students than those with normal weight. Additionally, the study indicates that obese students face an 8.5% higher burden of obesity-related health issues and are 5.77 times more likely to develop such conditions compared to normal-weight students. These results highlight that obesity affects both academic achievement and health, with potential long-term consequences for students’ well-being. To address these issues, educational institutions and communities should prioritize promoting healthy lifestyles, including proper nutrition and weight management support.
+:::
+
+Please take a look at the full article [here](https://link.springer.com/article/10.1186/s12889-025-21946-7)!
